@@ -1,0 +1,13 @@
+File list
+covid19-cdc-20211294.csv
+covid19-cdc-22200549.csv
+merged_file.csv
+cleaned_merged.csv
+DecisionTree4.dot
+DecisionTree4.png
+DecisionTree10.dot
+DecisionTree10.png
+pip_requirements_comp47350py38.txt
+conda_requirements_comp47350py38.txt
+Individual Report_20211294.pdf
+ASS2-Predictive_Modelling_Evaluation.ipynb
